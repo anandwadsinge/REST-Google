@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectData projectKey="14d457bf-b6d5-494c-b693-c30d59609567">
+  <BusinessProcess>
+    <ID>1</ID>
+    <Name>Business Process-1</Name>
+    <Flow>
+      <ID>1</ID>
+      <Name>Google</Name>
+    </Flow>
+    <Flow>
+      <ID>2</ID>
+      <Name>SSL Test</Name>
+      <Step>
+        <ID>1</ID>
+        <Name>REST Client</Name>
+      </Step>
+      <Step>
+        <ID>2</ID>
+        <Name>NOP</Name>
+      </Step>
+    </Flow>
+  </BusinessProcess>
+</ProjectData>

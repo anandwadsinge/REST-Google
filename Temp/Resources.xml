@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Resource_Settings type="resource">
+  <Resource_Element>
+    <Main_Resource_ID>923746966</Main_Resource_ID>
+    <Main_Resource_Name>REST Client</Main_Resource_Name>
+    <Default_Resource>GoogleDrive</Default_Resource>
+    <Main_Resource_Defintion>
+      <Resource_Type_ID>1</Resource_Type_ID>
+      <Resource_Type_Name>GoogleDrive</Resource_Type_Name>
+      <Resource_Type_Description />
+      <Resource_Properties>
+        <ID>1</ID>
+        <Name>Server URL</Name>
+        <ExpressionValue>https://www.googleapis.com</ExpressionValue>
+        <DisplaySequenceID>1</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>10</ID>
+        <Name>Client Id</Name>
+        <ExpressionValue>371096506182-vrqqh6dtgjeuv0br2tn31gkto03nmdud.apps.googleusercontent.com</ExpressionValue>
+        <DisplaySequenceID>10</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>11</ID>
+        <Name>Client Secret</Name>
+        <ExpressionValue>QDeHq1Pd_g9pykMdpAbuDQYZ</ExpressionValue>
+        <DisplaySequenceID>11</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>12</ID>
+        <Name>Scope</Name>
+        <ExpressionValue>https://www.googleapis.com/auth/drive</ExpressionValue>
+        <DisplaySequenceID>12</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>13</ID>
+        <Name>OAuth Refresh Token</Name>
+        <ExpressionValue>MS8vMGdRN2lhOEVIcDN4ZkNnWUlBUkFBR0JBU053Ri1MOUlyZXp2MW9kbG1DVEJ5a3U5d0VCTlpBQnNBM3RxY21Xd05pZkV1YW1zQVNuX1cwVFF5Rk5lUFhRRnI4RDY1M2xULUFtbw==</ExpressionValue>
+        <DisplaySequenceID>13</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>14</ID>
+        <Name>HttpMultipartMode</Name>
+        <ExpressionValue>STRICT</ExpressionValue>
+        <DisplaySequenceID>14</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>2</ID>
+        <Name>Security</Name>
+        <ExpressionValue>3</ExpressionValue>
+        <DisplaySequenceID>2</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>3</ID>
+        <Name>User</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>3</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>4</ID>
+        <Name>Password</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>4</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>5</ID>
+        <Name>Paths</Name>
+        <ExpressionValue>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48RW5kcG9pbnRDb25maWd1cmF0aW9uRWRpdG9yVmlldyB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIj48UGF0aEVuZHBvaW50TGlzdD48UGF0aEVuZHBvaW50Vmlldz48UGF0aE5hbWU+L3VwbG9hZC9kcml2ZS92My9maWxlczwvUGF0aE5hbWU+PFF1ZXJ5UGFyYW1ldGVyc1RhYj48UXVlcnlQYXJhbWV0ZXJMaXN0IC8+PC9RdWVyeVBhcmFtZXRlcnNUYWI+PEhlYWRlclBhcmFtZXRlcnNUYWI+PEhlYWRlclBhcmFtZXRlckxpc3QgLz48L0hlYWRlclBhcmFtZXRlcnNUYWI+PEZvcm1QYXJhbWV0ZXJzUmVxdWVzdFRhYj48Rm9ybVBhcmFtZXRlclJlcXVlc3RMaXN0PjxGb3JtUGFyYW1ldGVyUmVxdWVzdFZpZXc+PEZvcm1QYXJhbWV0ZXJSZXF1ZXN0TmFtZT5VcGxvYWRGaWxlPC9Gb3JtUGFyYW1ldGVyUmVxdWVzdE5hbWU+PFBhcnRUeXBlRWxlbWVudD5BdHRhY2htZW50PC9QYXJ0VHlwZUVsZW1lbnQ+PENvbnRlbnRUeXBlRWxlbWVudD5pbWFnZS9qcGVnPC9Db250ZW50VHlwZUVsZW1lbnQ+PEVuY29kaW5nVHlwZUVsZW1lbnQ+QmluYXJ5PC9FbmNvZGluZ1R5cGVFbGVtZW50PjwvRm9ybVBhcmFtZXRlclJlcXVlc3RWaWV3PjwvRm9ybVBhcmFtZXRlclJlcXVlc3RMaXN0PjwvRm9ybVBhcmFtZXRlcnNSZXF1ZXN0VGFiPjxGb3JtUGFyYW1ldGVyc1Jlc3BvbnNlVGFiPjxGb3JtUGFyYW1ldGVyUmVzcG9uc2VMaXN0IC8+PC9Gb3JtUGFyYW1ldGVyc1Jlc3BvbnNlVGFiPjwvUGF0aEVuZHBvaW50Vmlldz48L1BhdGhFbmRwb2ludExpc3Q+PFJlcXVlc3RQYXJ0VHlwZUVsZW1lbnRMaXN0PjxSZXF1ZXN0UGFydFR5cGU+PFBpY2tMaXN0RWxlbWVudD5BdHRhY2htZW50PC9QaWNrTGlzdEVsZW1lbnQ+PC9SZXF1ZXN0UGFydFR5cGU+PFJlcXVlc3RQYXJ0VHlwZT48UGlja0xpc3RFbGVtZW50PlRleHQ8L1BpY2tMaXN0RWxlbWVudD48L1JlcXVlc3RQYXJ0VHlwZT48L1JlcXVlc3RQYXJ0VHlwZUVsZW1lbnRMaXN0PjxSZXF1ZXN0Q29udGVudFR5cGVFbGVtZW50TGlzdD48UmVxdWVzdENvbnRlbnRUeXBlPjxQaWNrTGlzdEVsZW1lbnQ+YXBwbGljYXRpb24vanNvbjwvUGlja0xpc3RFbGVtZW50PjwvUmVxdWVzdENvbnRlbnRUeXBlPjxSZXF1ZXN0Q29udGVudFR5cGU+PFBpY2tMaXN0RWxlbWVudD5hcHBsaWNhdGlvbi94bWw8L1BpY2tMaXN0RWxlbWVudD48L1JlcXVlc3RDb250ZW50VHlwZT48UmVxdWVzdENvbnRlbnRUeXBlPjxQaWNrTGlzdEVsZW1lbnQ+YXBwbGljYXRpb24vcGRmPC9QaWNrTGlzdEVsZW1lbnQ+PC9SZXF1ZXN0Q29udGVudFR5cGU+PFJlcXVlc3RDb250ZW50VHlwZT48UGlja0xpc3RFbGVtZW50PmltYWdlL2pwZWc8L1BpY2tMaXN0RWxlbWVudD48L1JlcXVlc3RDb250ZW50VHlwZT48UmVxdWVzdENvbnRlbnRUeXBlPjxQaWNrTGlzdEVsZW1lbnQ+aW1hZ2UvcG5nPC9QaWNrTGlzdEVsZW1lbnQ+PC9SZXF1ZXN0Q29udGVudFR5cGU+PFJlcXVlc3RDb250ZW50VHlwZT48UGlja0xpc3RFbGVtZW50Pm11bHRpcGFydC9mb3JtLWRhdGE8L1BpY2tMaXN0RWxlbWVudD48L1JlcXVlc3RDb250ZW50VHlwZT48UmVxdWVzdENvbnRlbnRUeXBlPjxQaWNrTGlzdEVsZW1lbnQ+dGV4dC9wbGFpbjwvUGlja0xpc3RFbGVtZW50PjwvUmVxdWVzdENvbnRlbnRUeXBlPjxSZXF1ZXN0Q29udGVudFR5cGU+PFBpY2tMaXN0RWxlbWVudD50ZXh0L3htbDwvUGlja0xpc3RFbGVtZW50PjwvUmVxdWVzdENvbnRlbnRUeXBlPjxSZXF1ZXN0Q29udGVudFR5cGU+PFBpY2tMaXN0RWxlbWVudD50ZXh0L2h0bWw8L1BpY2tMaXN0RWxlbWVudD48L1JlcXVlc3RDb250ZW50VHlwZT48L1JlcXVlc3RDb250ZW50VHlwZUVsZW1lbnRMaXN0PjxSZXF1ZXN0RW5jb2RpbmdUeXBlRWxlbWVudExpc3Q+PFJlcXVlc3RFbmNvZGluZ1R5cGU+PFBpY2tMaXN0RWxlbWVudD5CaW5hcnk8L1BpY2tMaXN0RWxlbWVudD48L1JlcXVlc3RFbmNvZGluZ1R5cGU+PFJlcXVlc3RFbmNvZGluZ1R5cGU+PFBpY2tMaXN0RWxlbWVudD5VVEYtODwvUGlja0xpc3RFbGVtZW50PjwvUmVxdWVzdEVuY29kaW5nVHlwZT48UmVxdWVzdEVuY29kaW5nVHlwZT48UGlja0xpc3RFbGVtZW50Plw8L1BpY2tMaXN0RWxlbWVudD48L1JlcXVlc3RFbmNvZGluZ1R5cGU+PC9SZXF1ZXN0RW5jb2RpbmdUeXBlRWxlbWVudExpc3Q+PFJlc3BvbnNlUGFydFR5cGVFbGVtZW50TGlzdCAvPjxSZXNwb25zZUNvbnRlbnRUeXBlRWxlbWVudExpc3QgLz48UmVzcG9uc2VFbmNvZGluZ1R5cGVFbGVtZW50TGlzdCAvPjwvRW5kcG9pbnRDb25maWd1cmF0aW9uRWRpdG9yVmlldz4=</ExpressionValue>
+        <DisplaySequenceID>5</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>6</ID>
+        <Name>OAuth Refresh Token Status</Name>
+        <ExpressionValue>Available</ExpressionValue>
+        <DisplaySequenceID>6</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>7</ID>
+        <Name>Authorization URL</Name>
+        <ExpressionValue>https://accounts.google.com/o/oauth2/auth</ExpressionValue>
+        <DisplaySequenceID>7</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>8</ID>
+        <Name>Access Token URL</Name>
+        <ExpressionValue>https://accounts.google.com/o/oauth2/token</ExpressionValue>
+        <DisplaySequenceID>8</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>9</ID>
+        <Name>Callback URL</Name>
+        <ExpressionValue>http://localhost</ExpressionValue>
+        <DisplaySequenceID>9</DisplaySequenceID>
+      </Resource_Properties>
+    </Main_Resource_Defintion>
+    <Main_Resource_Defintion>
+      <Resource_Type_ID>2</Resource_Type_ID>
+      <Resource_Type_Name>REST Client_1</Resource_Type_Name>
+      <Resource_Type_Description />
+      <Resource_Properties>
+        <ID>1</ID>
+        <Name>Server URL</Name>
+        <ExpressionValue>https://anandwlpt.magicsoftware.co.in</ExpressionValue>
+        <DisplaySequenceID>1</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>2</ID>
+        <Name>Security</Name>
+        <ExpressionValue>0</ExpressionValue>
+        <DisplaySequenceID>2</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>3</ID>
+        <Name>User</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>3</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>4</ID>
+        <Name>Password</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>4</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>5</ID>
+        <Name>Paths</Name>
+        <ExpressionValue>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48RW5kcG9pbnRDb25maWd1cmF0aW9uRWRpdG9yVmlldyB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIiB4bWxuczp4c2Q9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hIj48UGF0aEVuZHBvaW50TGlzdD48UGF0aEVuZHBvaW50Vmlldz48UGF0aE5hbWU+L3Ntcy50eHQ8L1BhdGhOYW1lPjxRdWVyeVBhcmFtZXRlcnNUYWI+PFF1ZXJ5UGFyYW1ldGVyTGlzdCAvPjwvUXVlcnlQYXJhbWV0ZXJzVGFiPjxIZWFkZXJQYXJhbWV0ZXJzVGFiPjxIZWFkZXJQYXJhbWV0ZXJMaXN0IC8+PC9IZWFkZXJQYXJhbWV0ZXJzVGFiPjxGb3JtUGFyYW1ldGVyc1JlcXVlc3RUYWI+PEZvcm1QYXJhbWV0ZXJSZXF1ZXN0TGlzdCAvPjwvRm9ybVBhcmFtZXRlcnNSZXF1ZXN0VGFiPjxGb3JtUGFyYW1ldGVyc1Jlc3BvbnNlVGFiPjxGb3JtUGFyYW1ldGVyUmVzcG9uc2VMaXN0IC8+PC9Gb3JtUGFyYW1ldGVyc1Jlc3BvbnNlVGFiPjwvUGF0aEVuZHBvaW50Vmlldz48L1BhdGhFbmRwb2ludExpc3Q+PFJlcXVlc3RQYXJ0VHlwZUVsZW1lbnRMaXN0IC8+PFJlcXVlc3RDb250ZW50VHlwZUVsZW1lbnRMaXN0IC8+PFJlcXVlc3RFbmNvZGluZ1R5cGVFbGVtZW50TGlzdCAvPjxSZXNwb25zZVBhcnRUeXBlRWxlbWVudExpc3QgLz48UmVzcG9uc2VDb250ZW50VHlwZUVsZW1lbnRMaXN0IC8+PFJlc3BvbnNlRW5jb2RpbmdUeXBlRWxlbWVudExpc3QgLz48L0VuZHBvaW50Q29uZmlndXJhdGlvbkVkaXRvclZpZXc+</ExpressionValue>
+        <DisplaySequenceID>5</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>6</ID>
+        <Name>OAuth Refresh Token Status</Name>
+        <ExpressionValue>Missing</ExpressionValue>
+        <DisplaySequenceID>6</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>7</ID>
+        <Name>Authorization URL</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>7</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>8</ID>
+        <Name>Access Token URL</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>8</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>9</ID>
+        <Name>Callback URL</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>9</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>10</ID>
+        <Name>Client Id</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>10</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>11</ID>
+        <Name>Client Secret</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>11</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>12</ID>
+        <Name>Scope</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>12</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>13</ID>
+        <Name>OAuth Refresh Token</Name>
+        <ExpressionValue />
+        <DisplaySequenceID>13</DisplaySequenceID>
+      </Resource_Properties>
+      <Resource_Properties>
+        <ID>14</ID>
+        <Name>HttpMultipartMode</Name>
+        <ExpressionValue>STRICT</ExpressionValue>
+        <DisplaySequenceID>14</DisplaySequenceID>
+      </Resource_Properties>
+    </Main_Resource_Defintion>
+  </Resource_Element>
+</Resource_Settings>
